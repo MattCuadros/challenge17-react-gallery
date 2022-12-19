@@ -1,6 +1,6 @@
-import Header from "./Header";
-import Card from "./Card";
-import Footer from "./Footer";
+import Header from "./components/Header";
+import Card from "./components/Card";
+import Footer from "./components/Footer";
 
 const App=()=>{
 
